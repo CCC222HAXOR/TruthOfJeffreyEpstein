@@ -1,0 +1,9 @@
+{
+  "name": "truth-of-jeffrey-epstein",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "groq-sdk": "^0.6.0"
+  }
+}
